@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928770824821",
+    "project_id": "practicesevenfireauth",
+    "storage_bucket": "practicesevenfireauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928770824821:android:be57308601ebc5056e763c",
+        "android_client_info": {
+          "package_name": "ru.mirea.muratov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928770824821-j132tq5laq6uaorvh1jidqjk6c2r7k19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAVxUBK6APjkODu2X9RYmOucsi3DP4Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928770824821-j132tq5laq6uaorvh1jidqjk6c2r7k19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
